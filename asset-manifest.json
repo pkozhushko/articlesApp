@@ -1,0 +1,13 @@
+{
+  "main.css": "/articlesApp/static/css/main.e8c11d90.chunk.css",
+  "main.js": "/articlesApp/static/js/main.c26808f3.chunk.js",
+  "main.js.map": "/articlesApp/static/js/main.c26808f3.chunk.js.map",
+  "runtime~main.js": "/articlesApp/static/js/runtime~main.4278b008.js",
+  "runtime~main.js.map": "/articlesApp/static/js/runtime~main.4278b008.js.map",
+  "static/js/2.c9807054.chunk.js": "/articlesApp/static/js/2.c9807054.chunk.js",
+  "static/js/2.c9807054.chunk.js.map": "/articlesApp/static/js/2.c9807054.chunk.js.map",
+  "index.html": "/articlesApp/index.html",
+  "precache-manifest.d750f958c86449d9c6bb58b538cf16a0.js": "/articlesApp/precache-manifest.d750f958c86449d9c6bb58b538cf16a0.js",
+  "service-worker.js": "/articlesApp/service-worker.js",
+  "static/css/main.e8c11d90.chunk.css.map": "/articlesApp/static/css/main.e8c11d90.chunk.css.map"
+}
